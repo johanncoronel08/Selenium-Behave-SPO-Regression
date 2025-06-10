@@ -2,3 +2,4 @@ selenium
 behave
 allure-behave
 pytest
+python-dotenv
