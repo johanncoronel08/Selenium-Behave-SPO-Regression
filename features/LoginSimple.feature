@@ -1,5 +1,5 @@
 # Created by Admin at 17/5/2025
-
+@chrome
 Feature: Se realiza un login simple
 
 
